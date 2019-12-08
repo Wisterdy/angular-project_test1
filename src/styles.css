@@ -1,0 +1,33 @@
+/* Add application styles & imports to this file! */
+#navigation
+{
+  margin-top:0px;
+  padding:10px, 1opx;
+  background-color: rgb(255, 255, 255);
+  border:  3px solid green;
+  display:table-cell;
+   vertical-align: top;
+   width:190px;
+  
+}
+#navigation ul
+{
+list-style-type: none;
+
+
+}
+li a
+{
+ margin-bottom: 2px;
+}
+
+hover li a
+{
+  background-color:yellow;
+}
+
+#navigation ul a
+{
+  border-bottom:  1px solid green;
+  margin-bottom: 2px;
+}

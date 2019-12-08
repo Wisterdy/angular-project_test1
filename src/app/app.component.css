@@ -1,0 +1,23 @@
+p {
+  font-family: Lato;
+}
+header
+{
+text-align: center;
+background-color: #fec10b;
+font-size:20px;
+border-bottom-width: 20px;
+border-top-width: 20px;
+border: 2px solid black;
+padding-top:2px;
+padding-bottom:2px;
+
+
+}
+
+#logo
+{
+float:right;
+font-size: 7px;
+}
+
